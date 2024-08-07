@@ -11,11 +11,13 @@ connection is released.
 
 #### input example
 `=` represents the program output
-- =What is the maximum number of connections the router can accepts?
-- 2
-- =How many number of devices wish to connect?
-- 4
-- C1 mobile
-- C2 tablet
-- C3 pc
-- C4 laptop
+=What is the maximum number of connections the router can accepts?
+2
+=How many number of devices wish to connect?
+4
+C1 mobile
+C2 tablet
+C3 pc
+C4 laptop
+
+** This project was part of an assignment for college course on Operating Systems
